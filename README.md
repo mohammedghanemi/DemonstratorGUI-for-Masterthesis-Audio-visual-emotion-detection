@@ -1,9 +1,6 @@
 # 🎭 Audio-Visual Emotion Recognition System  
 **_Audio-visual emotion detection for safety-critical applications_**
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Demo+Screenshot" alt="App Screenshot" width="70%">
-</div>
 
 ---
 
@@ -27,7 +24,7 @@ This system performs **Audio-visual emotion detection for safety-critical applic
 
 ## 🎥 Demo Video  
 
-[▶️ Watch the demo video](D:\KI\DemonstratorGUI-for-Masterthesis-Audio-visual-emotion-detection\demo.avi)
+[▶️ Watch the demo video](assets/demo.avi)
 
 
 
