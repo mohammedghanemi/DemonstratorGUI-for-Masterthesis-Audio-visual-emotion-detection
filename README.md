@@ -1,5 +1,5 @@
 # 🎭 Audio-Visual Emotion Recognition System  
-**_Real-time emotion detection for safety-critical applications_**
+**_Audio-visual emotion detection for safety-critical applications_**
 
 <div align="center">
   <img src="https://via.placeholder.com/800x400?text=Demo+Screenshot" alt="App Screenshot" width="70%">
@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This system performs **real-time audio-visual emotion recognition** using deep learning. It is designed for:
+This system performs **Audio-visual emotion detection for safety-critical applications** using deep learning. It is designed for:
 
 - 🚗 Driver monitoring systems  
 - 🧠 Mental health evaluations  
@@ -24,6 +24,12 @@ This system performs **real-time audio-visual emotion recognition** using deep l
 > 🎓 Developed as part of a Master’s Thesis at the **Technical University of Munich**, in collaboration with **IAV GmbH**.
 
 ---
+
+## 🎥 Demo Video  
+
+[▶️ Watch the demo video](D:\KI\DemonstratorGUI-for-Masterthesis-Audio-visual-emotion-detection\demo.avi)
+
+
 
 ## 🚀 Quick Start
 
@@ -40,6 +46,6 @@ pip install -r requirements.txt
 ### ▶️ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run App.py
 
 
